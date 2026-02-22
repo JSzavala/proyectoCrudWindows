@@ -397,7 +397,7 @@ namespace proyectoCrudWindows
 
         private void AgregarEncabezadosTabla()
         {
-            // Solo agrega los encabezados visuales SIN tocar ViewState
+            
             TableHeaderRow headerRow = new TableHeaderRow();
             headerRow.BackColor = System.Drawing.Color.FromArgb(68, 114, 196);
             headerRow.ForeColor = System.Drawing.Color.White;
